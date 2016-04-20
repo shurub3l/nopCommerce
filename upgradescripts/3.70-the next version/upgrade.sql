@@ -369,7 +369,7 @@ set @resources='
     <Value>IP address</Value>
   </LocaleResource>
     <LocaleResource Name="Admin.Customers.Customers.ActivityLog.IpAddress.Hint">
-    <Value>The IP address for search</Value>
+    <Value>The IP address for the search.</Value>
   </LocaleResource>
 </Language>
 '
